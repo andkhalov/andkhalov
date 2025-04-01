@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I'm Andrey Khalov!
 
-<!--
-**andkhalov/andkhalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Head of R&D at [CrossFi](https://crossfi.org/)**  
+🎓 **Researcher in Data Science at MIPT (МФТИ)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **My research interests include:**  
+- Machine Learning & Deep Learning  
+- Advanced NLP  
+- Semantic Web & RDF  
+- Ontologies & Knowledge Graphs  
+- Web3 & WWW3  
+
+👯 **Looking to collaborate on:**  
+- AI integration in Web3 projects  
+- Semantic Web initiatives  
+- Enterprise Knowledge Graph solutions  
+
+---
+
+📫 **Reach me at:** [a.khalov@gmail.com](mailto:a.khalov@gmail.com)  
+
+⚡ **Fun fact:**  
+My cat's name is Cat) 😄
+
+⚡ **Bonus fact:**  
+I spent the first half of my career in marketing and design, but since 2020, I've fully transitioned into Data Science. Plot twist! 🚀
