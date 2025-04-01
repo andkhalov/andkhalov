@@ -3,6 +3,8 @@
 🔭 **Head of R&D at [CrossFi](https://crossfi.org/)**  
 🎓 **Researcher in Data Science at MIPT (МФТИ)**  
 
+
+
 ---
 
 🌟 **My research interests include:**  
@@ -20,6 +22,7 @@
 ---
 
 📫 **Reach me at:** [a.khalov@gmail.com](mailto:a.khalov@gmail.com)  
+🤗 **Hugging Face:** [Zamza](https://huggingface.co/Zamza)
 
 ⚡ **Fun fact:**  
 My cat's name is Cat) 😄
