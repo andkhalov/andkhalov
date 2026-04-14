@@ -9,7 +9,9 @@
 - Advanced NLP  
 - Semantic Web & RDF  
 - Ontologies & Knowledge Graphs  
-- Web3 & WWW3  
+- Web3 & WWW3
+- AI4Math
+- S-algebra
 
 ---
 
