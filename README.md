@@ -11,7 +11,7 @@
 - Ontologies & Knowledge Graphs  
 - Web3 & WWW3
 - AI4Math
-- S-algebra
+- self-algebra
 
 ---
 
